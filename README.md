@@ -18,4 +18,4 @@ I’m looking to collaborate on every subjects about carry out a web project
 How to reach me: 
 
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> :basile.lucena@protonma
-<img style="width: 5px;" src="https://www.freeiconspng.com/uploads/office-phone-icon--25.png"> :0649984708 
+<img style="width: 20px;" src="https://www.freeiconspng.com/uploads/office-phone-icon--25.png"> :0649984708 
