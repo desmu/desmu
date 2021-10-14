@@ -24,6 +24,5 @@ How to reach me:
 <img style="width: 20px;" src="https://www.freeiconspng.com/uploads/office-phone-icon--25.png"> :0649984708
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmu">
-<div style="background-color:red">aaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 
 
