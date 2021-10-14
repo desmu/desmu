@@ -1,4 +1,3 @@
-<body style="background-color: #0000; height:1000000000000px;">
 # **Basile Emmanuel Lucena Da Silva called Desmu**
 
 I’m currently working on getting a fullstack developper degree at IMTS my web developpement school.
@@ -25,7 +24,6 @@ How to reach me:
 <img style="width: 20px;" src="https://www.freeiconspng.com/uploads/office-phone-icon--25.png"> :0649984708
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmu">
-
-</body>
+<div style="background-color: red; width: 500px; height: 500px;></div>
 
 
